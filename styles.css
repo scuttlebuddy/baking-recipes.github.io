@@ -64,3 +64,6 @@ a:visited {
 a:link {
     color: black;
 }
+li {
+    font-size: 33px;
+}
