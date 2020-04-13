@@ -1,0 +1,66 @@
+.piedescription {
+    color: #635110;
+    text-align: left;
+}
+
+.cakedescription {
+    color: #a7a1a1;
+    text-align: left;
+}
+
+.cupcakedescription {
+    color: #00d0ff;
+    text-align: left;
+}
+
+.largedesc {
+    font-size: 85px;
+    font-weight: 500;
+}
+
+.smalldesc {
+    font-size: 30px;
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon,
+.carousel-indicators {
+    filter: invert(1);
+    ;
+}
+
+.up {
+    position: absolute;
+    bottom: 120px;
+}
+
+.opaque {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+a:active {
+    color: blue;
+}
+
+a:hover {
+    color: pink;
+}
+
+a:visited {
+    color: green;
+}
+
+a:link {
+    color: black;
+}
